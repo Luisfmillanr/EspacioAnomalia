@@ -148,7 +148,7 @@ header {
 .hero {
     width: 100%;
     height: 70vh;
-    background: url("/MiEmpresa/Cafe/IMG/The empanadas .webp") center no-repeat;
+    background: url("/MiEmpresa/Cafe/img/The\ empanadas\ .webp") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -280,7 +280,7 @@ header {
 
 /* Menu */
 .taste {
-    background: url("/MiEmpresa/Cafe/IMG/DALL·E 2024-04-26 15.33.28 - A small, cozy cafe interior designed to be quaint and inviting. The setting includes several small tables where people enjoy their beverages and light.webp") center no-repeat;
+    background: url("/MiEmpresa/Cafe/img/visioncafeanomalia.webp") center no-repeat;
     background-size: cover;
 }
 
